@@ -48,6 +48,8 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nusrat3657)
 
+![Nusrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusrat3657&show_icons=true&count_private=true)
+
 ## Languaged Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat3657&layout=donut)
