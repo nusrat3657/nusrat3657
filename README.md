@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and various web development frameworks.
 - 💼 Looking for opportunities to collaborate on open source projects and to contribute to meaningful web applications.
-- 💬 Ask me about web development, coding, or anything related to technology.
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Skills
@@ -21,6 +20,8 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nusrat-jahan-b12174307/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusratjahan3657r@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
 
