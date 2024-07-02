@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and various web development frameworks.
 - 💼 Looking for opportunities to collaborate on open source projects and to contribute to meaningful web applications.
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+- ⚡ Fun fact: I love wathicng movies and playing mobile games in my free time.
 
 ## 🛠️ Skills
 
