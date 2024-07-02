@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 ## Daily Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nusrat3657)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nusrat3657)
 
 ## Languaged Used
 
