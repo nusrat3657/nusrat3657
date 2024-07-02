@@ -26,6 +26,9 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+          
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
