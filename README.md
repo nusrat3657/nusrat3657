@@ -23,8 +23,6 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat3657&layout=donut)](https://github.com/nusrat3657/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contact Me
 
 Feel free to reach out to me via email at [nusratjahan3657r@gmail.com](mailto:nusratjahan3657r@gmail.com).
