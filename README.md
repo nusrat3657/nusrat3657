@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 ## Languaged Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat3657&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat3657&layout=donut)
 
 ## 📫 Contact Me
 
