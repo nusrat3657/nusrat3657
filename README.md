@@ -44,11 +44,13 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nusrat-jahan-b12174307/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusratjahan3657r@gmail.com)
 
+## Commit Counts
+
+![Nusrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusrat3657&show_icons=true&count_private=true)
+
 ## Daily Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nusrat3657)
-
-![Nusrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusrat3657&show_icons=true&count_private=true)
 
 ## Languaged Used
 
