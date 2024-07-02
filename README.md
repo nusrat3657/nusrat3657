@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nusrat-jahan-b12174307/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/afrin.tisha.524934)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nusratjahan3657r@gmail.com)
 
 ## 📫 Contact Me
