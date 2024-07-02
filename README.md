@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am an aspiring web developer with a passion for 
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via email at [nusratjahan3657r@gmail.com.com](nusratjahan3657r@gmail.com).
+Feel free to reach out to me via email at [nusratjahan3657r@gmail.com](mailto:nusratjahan3657r@gmail.com).
 
 ---
 
